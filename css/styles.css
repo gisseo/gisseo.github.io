@@ -98,26 +98,23 @@ header {
 } 
 .contenedor-servicio{
     display:flex;
-    justify-content: space-evenly;
+    justify-content: space-evenly; 
     align-items: center;
     flex-wrap: wrap;
 }
 
-.img1 {
-width: 15%
+.contendeor-servicio img{
+    width: 30%;
+    height: 30%;
+    float: right;
+    margin-right: 20px;
+    border-radius: 15px;
+    object-fit: cover;
+    object-position: 40% 20%;
 }
 
-.img2 {
-    width: 15%;
-    }
-
-    .img3 {
-        width: 15%;
-        }
-        
-
 .checklist-servicio{
-    width: 45%;
+    width: 40%;
 }
 
 .services{
