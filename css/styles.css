@@ -115,6 +115,7 @@ header {
 
 .checklist-servicio{
     width: 45%;
+    align-items: left;
 }
 
 .services{
